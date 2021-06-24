@@ -1,0 +1,14 @@
+com/srapp/ReactNativeFlipper.java
+ com.srapp.ReactNativeFlipper
+ com.srapp.ReactNativeFlipper$1
+ com.srapp.ReactNativeFlipper$2
+ com.srapp.ReactNativeFlipper$2$1
+com/srapp/MainActivity.java
+ com.srapp.MainActivity
+com/srapp/MainApplication.java
+ com.srapp.MainApplication
+ com.srapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/srapp/BuildConfig.java
+ com.srapp.BuildConfig
